@@ -1,0 +1,228 @@
+[
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A40",
+    "capacity": "3.84TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 9.3,
+      "rand_read_kiops": 3400,
+      "rand_write_kiops": 570
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A40",
+    "capacity": "7.68TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 11.0,
+      "rand_read_kiops": 3400,
+      "rand_write_kiops": 570
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A40",
+    "capacity": "15.36TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 11.8,
+      "rand_read_kiops": 3200,
+      "rand_write_kiops": 680
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A40",
+    "capacity": "30.72TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 11.8,
+      "rand_read_kiops": 3400,
+      "rand_write_kiops": 680
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A46",
+    "capacity": "3.2TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 9.3,
+      "rand_read_kiops": 3400,
+      "rand_write_kiops": 1000
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A46",
+    "capacity": "6.4TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 11.0,
+      "rand_read_kiops": 3400,
+      "rand_write_kiops": 1050
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A46",
+    "capacity": "12.8TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 11.8,
+      "rand_read_kiops": 3200,
+      "rand_write_kiops": 1100
+    }
+  },
+  {
+    "series": "PBlaze7 7A40",
+    "model": "7A46",
+    "capacity": "25.6TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 11.8,
+      "rand_read_kiops": 3400,
+      "rand_write_kiops": 1100
+    }
+  },
+  {
+    "series": "PBlaze7 7940",
+    "model": "7940",
+    "capacity": "3.84TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2/AIC",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.1,
+      "seq_write_gb_s": 6.0,
+      "rand_read_kiops": 2700,
+      "rand_write_kiops": 260
+    }
+  },
+  {
+    "series": "PBlaze7 7940",
+    "model": "7940",
+    "capacity": "7.68TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2/AIC",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.1,
+      "seq_write_gb_s": 10.8,
+      "rand_read_kiops": 2800,
+      "rand_write_kiops": 410
+    }
+  },
+  {
+    "series": "PBlaze7 7940",
+    "model": "7940",
+    "capacity": "15.36TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2/AIC",
+    "endurance_dwpd": 1,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 13.9,
+      "seq_write_gb_s": 9.8,
+      "rand_read_kiops": 2800,
+      "rand_write_kiops": 410
+    }
+  },
+  {
+    "series": "PBlaze7 7940",
+    "model": "7946",
+    "capacity": "3.2TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2/AIC",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.1,
+      "seq_write_gb_s": 6.0,
+      "rand_read_kiops": 2700,
+      "rand_write_kiops": 530
+    }
+  },
+  {
+    "series": "PBlaze7 7940",
+    "model": "7946",
+    "capacity": "6.4TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2/AIC",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.1,
+      "seq_write_gb_s": 10.8,
+      "rand_read_kiops": 2800,
+      "rand_write_kiops": 710
+    }
+  },
+  {
+    "series": "PBlaze7 7940",
+    "model": "7946",
+    "capacity": "12.8TB",
+    "nand": "3D TLC",
+    "form_factor": "U.2/AIC",
+    "endurance_dwpd": 3,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 13.9,
+      "seq_write_gb_s": 9.8,
+      "rand_read_kiops": 2800,
+      "rand_write_kiops": 700
+    }
+  },
+  {
+    "series": "PBlaze7 7A40 Ocean",
+    "model": "7A40 Ocean",
+    "capacity": "61.44TB",
+    "nand": "3D QLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 0.7,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 14.2,
+      "seq_write_gb_s": 4.0,
+      "rand_read_kiops": 3350,
+      "rand_write_kiops": 60 
+    },
+    "note": "Random Write measured at 16KB"
+  },
+  {
+    "series": "PBlaze7 7A40 Ocean",
+    "model": "7A40 Ocean",
+    "capacity": "122.88TB",
+    "nand": "3D QLC",
+    "form_factor": "U.2 15mm",
+    "endurance_dwpd": 0.7,
+    "pcie_5_0_performance": {
+      "seq_read_gb_s": 13.8,
+      "seq_write_gb_s": 4.0,
+      "rand_read_kiops": 3000,
+      "rand_write_kiops": 60
+    },
+    "note": "Random Write measured at 16KB"
+  }
+]
